@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://shellhub.github.io/"/>
-  <updated>2020-04-02T10:33:23.000Z</updated>
+  <updated>2020-04-04T09:42:21.000Z</updated>
   <id>https://shellhub.github.io/</id>
   
   <author>
@@ -15,6 +15,49 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>谷歌云搭建trojan+全平台配置(IOS Mac Android Windows Linux)科学上网</title>
+    <link href="https://shellhub.github.io/posts/48a35741/"/>
+    <id>https://shellhub.github.io/posts/48a35741/</id>
+    <published>2020-04-04T09:42:21.000Z</published>
+    <updated>2020-04-04T09:42:21.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;什么是trojan&quot;&gt;&lt;a href=&quot;#什么是trojan&quot; class=&quot;headerlink&quot; title=&quot;什么是trojan&quot;&gt;&lt;/a&gt;什么是&lt;a href=&quot;https://github.com/trojan-gfw/trojan&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;trojan&lt;/a&gt;&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;An unidentifiable mechanism that helps you bypass GFW.&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>递归算法详解</title>
+    <link href="https://shellhub.github.io/posts/fcc234da/"/>
+    <id>https://shellhub.github.io/posts/fcc234da/</id>
+    <published>2020-04-04T04:27:52.000Z</published>
+    <updated>2020-04-04T04:27:52.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/images/recursion-mirror.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;什么是递归算法&quot;&gt;&lt;a href=&quot;#什么是递归算法&quot; class=&quot;headerlink&quot; title=&quot;什么是递归算法&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E9%80%92%E5%BD%92&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;什么是递归算法&lt;/a&gt;&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;递归（英语：Recursion），又译为递回，在数学与计算机科学中，是指在函数的定义中使用函数自身的方法。递归一词还较常用于描述以自相似方法重复事物的过程。例如，当两面镜子相互之间近似平行时，镜中嵌套的图像是以无限递归的形式出现的。也可以理解为自我复制的过程。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://shellhub.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="递归" scheme="https://shellhub.github.io/tags/%E9%80%92%E5%BD%92/"/>
+    
+  </entry>
   
   <entry>
     <title>Github Pages 添加自定义域名并且开启 HTTPS 支持访问。</title>
